@@ -20,5 +20,5 @@ Next Event Estimate was recently implemented. This makes convergence about 10 ti
 
 <b>Current Image:</b></br>
 
-  ![Screen Cap 1 Here](/CurrentScreenCap.png?raw=true "Current Screen Cap")</br>
+  ![Screen Cap 1 Here](/CurrentScreenCap.PNG?raw=true "Current Screen Cap")</br>
 
