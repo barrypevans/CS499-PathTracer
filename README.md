@@ -15,8 +15,8 @@
 
 
 <b>Current State:</b></br>
-Currently the path tracer can render spheres and planes with diffuse global illumnation.</br>
-Next Event Estimate was recently implemented. This makes convergence about 10 times faster.</br>
+Currently the path tracer can render spheres and planes with full global illumnation..</br>
+The BRDF used is currently Cook-Torrance and the algorithm is made parallel on a per pixel basis.</br>
 
 <b>Current Image:</b></br>
 
