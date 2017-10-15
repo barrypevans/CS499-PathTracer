@@ -1,0 +1,15 @@
+﻿// Each #kernel tells which function to compile; you can have many kernels
+#pragma kernel Add
+
+// Create a RenderTexture with enableRandomWrite flag and set it
+// with cs.SetTexture
+RWStructuredBuffer<int> TestBuffer;
+
+
+
+[numthreads(1, 1, 1)]
+void Add(uint3 id : SV_DispatchThreadID)
+{
+	InterlockedAdd(TestBuffer[0], 1);
+}
+
