@@ -9,9 +9,9 @@
 
 <b>Timeframe: Deliverable Start and End Dates</b></br>
 •	Phase One - Simple BRDF Implementation - September 1st – 31st </br>
-•	Phase Two	-  Parallelization, Triangle intersections and spatial partitioning - October 1st – October 31th </br>
-•	Phase Three - BSDF, Progressive Rendering, Scene Loading - November 1st – November 30th </br>
-• Phase Four - DOF, Motion Blur, and Bloom December 1st – 14th </br>
+•	Phase Two	-  Parallelization, Triangle intersections and Progressive Rendering - October 1st – October 31th </br>
+•	Phase Three -  spatial partitioning, Scene Loading - November 1st – November 30th </br>
+• Phase Four - BSDF/participating media, image/lens effects, improved spatial partitioning - December 1st – 14th </br>
 
 
 <b>Current State:</b></br>
