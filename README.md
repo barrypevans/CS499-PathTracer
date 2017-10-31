@@ -19,6 +19,6 @@ Currently the path tracer can render spheres and planes with full global illumna
 The BRDF used is currently Cook-Torrance and the algorithm is made parallel on a per pixel basis.</br>
 
 <b>Current Image:</b></br>
-
+  ![Screen Cap 2 Here](/CurrentScreenCap2.PNG?raw=true "Current Screen Cap")</br>
   ![Screen Cap 1 Here](/CurrentScreenCap.PNG?raw=true "Current Screen Cap")</br>
 
